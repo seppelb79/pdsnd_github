@@ -126,7 +126,6 @@ print(trip4)
 
 head(chi)
 
-summary(chi) # To get statistical overview of the dataframe "chi"
 
 # Dropping missing values from df "chi"
 
